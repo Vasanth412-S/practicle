@@ -1,0 +1,42 @@
+ 1. // C program to print Integer data Types.
+ 
+ #include<stdio.h>
+ int main()
+ {
+	// integer with positive data 
+		int a = 9;
+	//integer with negative data
+		int b= -10;
+	// U or u are used for unsigned integer in c 
+		int c = l45U;
+	// L or l used for long int in c 
+		int d = 988879L;
+		
+	printf("integr value with positive data : %d\n" , a);
+	printf("integer value with posirive data : %d\n",b);
+	printf(" integer value with unsigned data : %u\n" , c);
+	printf(" integer value with long int data : %ld \n" , d);
+	 
+	return 0;
+}
+====================================================================================================
+2. // c program to print integer data types. 
+
+#include<stdio.h>
+int main()
+{
+	char a = 'a'; 
+	char c;
+	
+	printf("value of a : %c \n",a );
+	 a++; 
+	 printf ("value fo a after increment is : %c\n", a);
+	 
+	 c=99;
+	 pritnf("value of c:%c \n,c);
+	 
+	 return 0;
+	 
+	 
+}
+=====================================================================================================
